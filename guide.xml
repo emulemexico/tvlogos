@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LAS ESTRELLAS -2hr">
+    <display-name lang="es">LAS ESTRELLAS -2hr</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <url>http://www.izzi.mx</url>
+  </channel>
+</tv>
